@@ -1,0 +1,38 @@
+h1{
+  transition:1s;
+  transform:rotate(20deg);
+  text-align:center;
+  
+}
+h1:hover{
+  transition:1s;
+  transform:rotate(60deg);
+  text-align:center;
+}
+p{
+  font-size:20px;
+  
+}
+.house{
+  float:left;
+  border:2px solid brown;height:220px;
+  margin:4px;
+}
+.HPict{
+  transtion:1s;
+  transform:rotate(0deg);
+  
+}
+.HPict:hover{
+  transtion:1s;
+  transform:rotate(10deg);
+}
+.button{
+  position:sticky;
+  top:10px;
+}
+a{
+  text-decoration:none;
+   color:red;
+   font-size:25px;
+}
